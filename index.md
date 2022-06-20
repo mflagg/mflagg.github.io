@@ -1,4 +1,2 @@
-## Flagg Visual Computing LLC
-
 Matt Flagg earned his Ph.D. in Computer Science in 2010 from the School of Interactive Computing at Georgia Tech, specializing in computer vision, graphics and human-computer interaction. Matt’s current research interests include the first markerless motion capture system for professional soccer, the best 3D face scanner for the iPhone, and identity document authentication. Prior to consulting, he co-founded a gesture recognition company named PlayMotion that deployed hundreds of projector-camera systems in hospitals, museums and family entertainment centers including three divisions of Disney parks. He also contributed to the development of the technology that won a technical Oscar at Industrial Light & Magic. Outside of work, Matt is an avid kayaker and runner.
 
