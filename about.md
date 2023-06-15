@@ -11,16 +11,16 @@ retention of Flagg and his team.
 
 Collaborators and Teammates:
 
-- [Aaron Soellinger](https://www.linkedin.com/in/aaronsoellinger/), Hop Labs
-- [Aaron Kaminar](https://www.linkedin.com/in/aaron-kaminar-1a007953/), Image Flux
-- Andrew Quitmeyer, Ph.D., Digital Naturalism Laboratories
-- Ankit Sachan, AI Monk
-- Ankur Kalra, Hop Labs
-- Cullen Wallace
-- Jeremy Barrett
-- Pranav Mishra, Big Vision 
-- Roxanne Flagg
-- Sarah Andrews, Hop Labs
-- Satya Mallick, Ph.D., Big Vision, OpenCV.AI, OpenCV.org
-- Zac Stewart, Hop Labs
-- Vaibhav Thakor, AI Monk
+- [Aaron Soellinger](https://www.linkedin.com/in/aaronsoellinger/), [Hop Labs](https://www.hoplabs.com/)
+- [Aaron Kaminar](https://www.linkedin.com/in/aaron-kaminar-1a007953/), [Image Flux](https://imageflux.tv/)
+- [Andrew Quitmeyer, Ph.D.](https://www.dinalab.net/), [Digital Naturalism Laboratories](https://www.dinalab.net/)
+- [Ankit Sachan](https://www.linkedin.com/in/ankitsachan/?originalSubdomain=in), [AIMonk Labs](https://aimonk.com/)
+- [Ankur Kalra](https://www.linkedin.com/in/theankurkalra/), [Hop Labs](https://www.hoplabs.com/)
+- [Cullen Wallace](https://www.linkedin.com/in/cullen-wallace/)
+- [Jeremy Barrett](https://www.linkedin.com/in/jeremy-barrett-a684ab1/)
+- [Pranav Mishra](https://www.linkedin.com/in/pranav-mishra-226ab93/), [Big Vision](https://bigvision.ai)
+- [Roxanne Flagg](https://www.linkedin.com/in/roxanneflagg/)
+- [Sarah Andrews](https://www.linkedin.com/in/sarah-e-andrews/), [Hop Labs](https://www.hoplabs.com/)
+- [Satya Mallick, Ph.D.](https://www.linkedin.com/in/satyamallick/), [Big Vision](https://bigvision.ai), [OpenCV.AI](https://opencv.ai), [OpenCV.org](https://opencv.org)
+- [Vaibhav Thakor](https://www.linkedin.com/in/vaibhavthakor28/), [AIMonk Labs](https://aimonk.com/)
+- [Zac Stewart](https://www.linkedin.com/in/zac-stewart-79b2a5a6/), [Hop Labs](https://www.hoplabs.com/)
