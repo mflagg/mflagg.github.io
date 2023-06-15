@@ -1,4 +1,4 @@
-## Scientific Consulting Services 
+# Scientific Consulting Services 
 
 Need expertise and software development firepower in the areas of computer vision and graphics?  We are a collective of experts working
 as full-time consultants for a wide range of customers to help solve challenging and valuable problems in computer vision and AI more broadly.
