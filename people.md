@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: People 
+permalink: /people/
 ---
 
 Flagg Visual Computing LLC is a software consulting firm specializing in computer vision and computer graphics.
