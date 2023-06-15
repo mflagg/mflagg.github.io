@@ -5,7 +5,8 @@ permalink: /about/
 ---
 
 Flagg Visual Computing LLC is a software consulting firm specializing in computer vision and computer graphics.
-Contract consulting projects are executed by Flagg and his team.  Most client engagements involve multi-year
+We provide expertise for hire on an hourly basis.  All IP is owned by the customer.
+Contract consulting projects are executed by Flagg and his longtime collaborators.  Most client engagements involve multi-year
 retention of Flagg and his team.
 
 Collaborators and Teammates:
