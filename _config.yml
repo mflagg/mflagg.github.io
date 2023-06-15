@@ -1,6 +1,6 @@
 theme: minima
 title: Flagg Visual Computing LLC 
-description: A computer vision and graphics consultancy managed by Matt Flagg, Ph.D.
+description: A computer vision and graphics consultancy
 
 header_pages:
   - about.md
@@ -38,4 +38,5 @@ author:
   xing             :
   youtube          : 
   wikipedia        :
+
 
