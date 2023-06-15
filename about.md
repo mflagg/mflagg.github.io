@@ -13,12 +13,14 @@ Collaborators and Teammates:
 
 - Aaron Soellinger, Hop Labs
 - Aaron Kaminar, Image Flux
-- Dr. Andrew Quitmeyer, Digital Naturalism Laboratories
+- Andrew Quitmeyer, Ph.D., Digital Naturalism Laboratories
 - Ankit Sachan, AI Monk
 - Ankur Kalra, Hop Labs
-- Vaibhav Thakor, AI Monk
-- Jeremy Barrett
 - Cullen Wallace
+- Jeremy Barrett
 - Pranav Mishra, Big Vision 
-- Satya Mallick, Big Vision, OpenCV.AI, OpenCV.org
+- Roxanne Flagg
+- Sarah Andrews, Hop Labs
+- Satya Mallick, Ph.D., Big Vision, OpenCV.AI, OpenCV.org
 - Zac Stewart, Hop Labs
+- Vaibhav Thakor, AI Monk
