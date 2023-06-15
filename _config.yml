@@ -2,13 +2,17 @@ theme: minima
 title: Flagg Visual Computing LLC 
 description: A computer vision and graphics consultancy managed by Matt Flagg, Ph.D.
 
+header_pages:
+  - about.md
+  - portfolio.md
+
 author:
   name             : "Matt Flagg"
   avatar           : "yo.jpg"
   bio              : "Consultant"
   location         : "Saint Simons Island, GA"
   googlescholar    : "https://scholar.google.com/citations?user=SvuSifMAAAAJ&hl=en"
-  email            : "mflagg@cc.gatech.edu"
+  email            : "mflagg@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
