@@ -6,6 +6,7 @@ permalink: /portfolio/
 
 - **AEDIT**, NYC: 3D facing scanning as a pre-consultation for cosmetic surgery
 - **AuthenticID**, NYC: secure document authentication technologies
+- **Blue Ring Imaging**, Tampa: underwater 3D reconstruction
 - **CalTech**, Pasadena: fish monitoring next to river turbines in Alaska
 - **Tailored**, Naples: automated clothing measurements
 - **Playfair Capital**, London: technical due diligence of investment candidates
