@@ -1,3 +1,9 @@
 theme: minima
-title: Matt Flagg, Ph.D.
-description: Computer vision and graphics consulting
+title: Flagg Visual Computing LLC 
+description: A computer vision and graphics consulting firm
+operated by Matt Flagg, Ph.D.
+
+minima:
+    social_links:
+       - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=SvuSifMAAAAJ&hl" }
+       - { platform: linkedin,       user_url: "https://www.linkedin.com/in/matt-flagg-47a4643" }
