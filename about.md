@@ -11,8 +11,8 @@ retention of Flagg and his team.
 
 Collaborators and Teammates:
 
-- Aaron Soellinger, Hop Labs
-- Aaron Kaminar, Image Flux
+- [Aaron Soellinger](https://www.linkedin.com/in/aaronsoellinger/), Hop Labs
+- [Aaron Kaminar](https://www.linkedin.com/in/aaron-kaminar-1a007953/), Image Flux
 - Andrew Quitmeyer, Ph.D., Digital Naturalism Laboratories
 - Ankit Sachan, AI Monk
 - Ankur Kalra, Hop Labs
