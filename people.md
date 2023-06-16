@@ -19,6 +19,7 @@ Collaborators and Teammates:
 - [ Cullen Wallace ](https://www.linkedin.com/in/cullen-wallace/)
 - [ Haider Ali, Ph.D. ](https://www.linkedin.com/in/haider-ali-phd-ab6b76b/)
 - [ Jeremy Barrett ](https://www.linkedin.com/in/jeremy-barrett-a684ab1/)
+- Kyli Duke
 - [ Pranav Mishra ](https://www.linkedin.com/in/pranav-mishra-226ab93/), [ Big Vision ](https://bigvision.ai)
 - [ Roxanne Flagg ](https://www.linkedin.com/in/roxanneflagg/)
 - [ Sarah Andrews ](https://www.linkedin.com/in/sarah-e-andrews/), [ Hop Labs ](https://www.hoplabs.com/)

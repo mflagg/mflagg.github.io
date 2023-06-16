@@ -11,7 +11,7 @@ permalink: /portfolio/
 - **Playfair Capital**, London: technical due diligence of investment candidates
 - **LoomAI**, San Francisco: personal avatar creation from photos, helped launch AR Emoji on Samsung devices
 - **Meta Reality Labs**, Seattle: secret
-- **S3 Global**, Redmond: markerless motion capture for professional soccer
+- **S3 Global**, Redmond: real-time markerless motion capture of professional soccer matches 
 - **Tailored**, Naples: automated clothing measurements
 - **U. of Alaska**, Anchorage: fish monitoring next to river turbines
 
