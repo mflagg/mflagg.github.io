@@ -13,10 +13,10 @@ permalink: /portfolio/
 - **FitzFrames**, Los Angeles: custom 3D printed glasses from a 3D face scan
 - **IceCream Labs**, San Francisco: visual search
 - **LoomAI**, San Francisco: personal avatar creation from photos, helped launch AR Emoji on Samsung devices
-- **Playfair Capital**, London: technical due diligence of investment candidates
 - **Meta Reality Labs**, Seattle: secret
 - **OpenCV.ai**, Palo Alto: for profit consulting arm of OpenCV.org
+- **Playfair Capital**, London: technical due diligence of investment candidates
 - **S3 Global**, Redmond: real-time markerless motion capture of professional soccer matches 
 - **Tailored**, Naples: automated clothing measurements
-- **U. of Alaska**, Anchorage: fish monitoring next to river turbines
+- **Univ. of Alaska**, Anchorage: fish monitoring next to river turbines
 
