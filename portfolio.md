@@ -4,14 +4,14 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-- **AEDIT**, NYC: 3D facing scanning as a pre-consultation for cosmetic surgery
-- **Atollogy**, SF: manufacturing
-- **AuthenticID**, NYC: secure document authentication technologies
+- **AEDIT**, New York City: 3D facing scanning as a pre-consultation for cosmetic surgery
+- **Atollogy**, San Francisco: manufacturing
+- **AuthenticID**, Kirkland: secure document authentication technologies
 - **Big Vision**, San Diego: consulting services in AI
 - **Blue Ring Imaging**, Tampa: underwater 3D reconstruction
 - **CalTech**, Pasadena: fish monitoring next to river turbines in Alaska
-- **FitzFrames**, LA: custom 3D printed glasses from a 3D face scan
-- **IceCream Labs**, SF: visual search
+- **FitzFrames**, Los Angeles: custom 3D printed glasses from a 3D face scan
+- **IceCream Labs**, San Francisco: visual search
 - **LoomAI**, San Francisco: personal avatar creation from photos, helped launch AR Emoji on Samsung devices
 - **Playfair Capital**, London: technical due diligence of investment candidates
 - **Meta Reality Labs**, Seattle: secret
