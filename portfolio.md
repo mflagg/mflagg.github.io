@@ -5,6 +5,7 @@ permalink: /portfolio/
 ---
 
 - **AEDIT**, New York City: 3D facing scanning as a pre-consultation for cosmetic surgery
+- **AIPEX Racing**, New York City: autonomous racing
 - **Atollogy**, San Francisco: manufacturing
 - **AuthenticID**, Kirkland: secure document authentication technologies
 - **Big Vision**, San Diego: consulting services in AI
