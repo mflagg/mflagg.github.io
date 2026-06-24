@@ -319,12 +319,6 @@ p { margin: 0 0 1.1em; }
 
 .about-body p { color: var(--text-muted); }
 .about-body strong { color: var(--text); font-weight: 600; }
-.about-name {
-  font-family: var(--font-display);
-  font-size: 1.5rem;
-  color: var(--text);
-  margin-bottom: 4px;
-}
 .about-role {
   font-family: var(--font-mono);
   font-size: .8rem; letter-spacing: .08em;
