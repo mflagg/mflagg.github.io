@@ -319,13 +319,6 @@ p { margin: 0 0 1.1em; }
 
 .about-body p { color: var(--text-muted); }
 .about-body strong { color: var(--text); font-weight: 600; }
-.about-role {
-  font-family: var(--font-mono);
-  font-size: .8rem; letter-spacing: .08em;
-  color: var(--accent);
-  text-transform: uppercase;
-  margin-bottom: 22px;
-}
 
 /* Stats */
 .stats {
